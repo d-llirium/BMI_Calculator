@@ -12,4 +12,4 @@
 ### Xcode 16.0
 ### swift 5.0
 
-![Calculator](https://github.com/d-llirium/NOMEAPP/blob/main/gif.gif?raw=true)
+![BMI_Calculator](https://github.com/d-llirium/BMI_Calculator/blob/main/gif.gif?raw=true)
